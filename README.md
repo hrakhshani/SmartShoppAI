@@ -2,8 +2,6 @@
 
 Your private AI shopping assistant — chat, search products, compare prices, and get personalized recommendations, all running on-device with no data sent to the cloud.
 
-This is a private, on-device AI assistant built for smart shopping. Powered by Apple's MLX framework, it runs advanced language models entirely on your iPhone — your conversations never leave your device.
-
 Ask for product recommendations, compare options, search the web for reviews, and get tailored suggestions through an interactive preference questionnaire — all within a single chat.
 
 KEY FEATURES
