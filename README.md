@@ -31,27 +31,3 @@ When you enter a search query, the query is sent to these external services in o
 The app itself does not collect, store, or retain any personal data. No user information is saved on our servers.
 
 However, the third-party services (Brave Search and Channel3) may process requests in accordance with their own privacy policies. We recommend reviewing their policies to understand how your data may be handled.
-
-
-## Publishing Checklist
-
-Before publishing or sharing builds:
-
-1. confirm the app icon and bundle identifier are correct
-2. confirm location, camera, and photo permission strings are intentional
-3. verify the selected deployment target is what you want to support
-4. test one plain chat, one image turn, and one tool-backed turn on a real device
-5. remove any private API keys from local settings before screenshots or demos
-
-## GitHub
-
-This repository is prepared to be committed as a normal Xcode project with the app, assets, and `ToolTest` harness checked in.
-
-Typical flow:
-
-```bash
-git add -A
-git commit -m "Initial commit for MLXChat"
-git remote add origin <your-repo-url>
-git push -u origin main
-```
