@@ -8,13 +8,19 @@ Ask for product recommendations, compare options, search the web for reviews, an
 
 KEY FEATURES
 
-On-device AI: Models run locally using Apple MLX. No server, no subscriptions, no data collection.
-Product Search: Find and compare products with prices, descriptions, and direct links.
-Web Search: Get up-to-date information and reviews powered by Brave Search.
-Smart Questionnaires: Interactive UI to capture your budget, brand preferences, and must-have features for personalized recommendations.
-Vision Support: Attach photos from your camera or library and ask the AI about them.
-Thinking Mode: Toggle reasoning visibility to see how the model arrives at its answers.
-Model Management: Download, switch, and manage MLX models directly from the app.
+- On-device AI: Models run locally using Apple MLX. No server, no subscriptions, no data collection.
+
+- Product Search: Find and compare products with prices, descriptions, and direct links.
+
+- Web Search: Get up-to-date information and reviews powered by Brave Search.
+
+- Smart Questionnaires: Interactive UI to capture your budget, brand preferences, and must-have features for personalized recommendations.
+
+- Vision Support: Attach photos from your camera or library and ask the AI about them.
+
+- Thinking Mode: Toggle reasoning visibility to see how the model arrives at its answers.
+
+- Model Management: Download, switch, and manage MLX models directly from the app.
 
 ## Privacy Policy
 
